@@ -1,7 +1,7 @@
 # Veldbus-Communicatie
 In deze repository vind je implementaties van verschillende veldbusprotocollen. Alle voorbeelden zijn ontworpen om te werken op twee Arduino Uno’s.
 
-## Instalatie
+## Installatie
 Benodigdheden:
 - 2 Arduino Uno’s of een ander soort Arduino
 - 10 jumperkabels male‑male
